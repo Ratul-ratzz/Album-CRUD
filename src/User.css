@@ -1,0 +1,28 @@
+.list {
+    display:flex;
+    width: 600px;
+    justify-content: space-between;
+    /* margin: 1px; */
+    margin-left: 30%;
+}
+.album-1 h1 {    
+    margin-left: 40%;
+    display:flex;
+    width: 200px;
+    
+    text-align: center;
+    
+}
+.album-2 form {
+    margin-left: 40%;
+}
+.album-1-2 {
+    background-color: rgb(151, 194, 207);
+}
+.album-1{
+    background-color:blanchedalmond;
+}
+.album-2 form input{
+    size: 500%;
+    margin-bottom:2% ;
+}
